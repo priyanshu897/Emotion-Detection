@@ -1,0 +1,1 @@
+This is a Project about Emotion detection. With version 1 it is only binary classification
