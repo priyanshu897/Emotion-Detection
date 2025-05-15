@@ -1,2 +1,3 @@
-model.pkl
+.gitignore
 emotion_detection.ipynb
+model.pkl
